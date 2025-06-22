@@ -16,11 +16,11 @@
 
 ## 🎯 What You Unlock
 
-    🔓 Full access to AI-powered video enhancement  
-    🎞 Upscaling from SD/HD to 4K+  
-    🎥 Motion stabilization and noise reduction  
-    🧠 Model selection with frame-by-frame optimization  
-    🔌 No cloud sync or online verification needed
+🔓 Full access to AI-powered video enhancement  
+🎞 Upscaling from SD/HD to 4K+  
+🎥 Motion stabilization and noise reduction  
+🧠 Model selection with frame-by-frame optimization  
+🔌 No cloud sync or online verification needed
 
 ---
 
